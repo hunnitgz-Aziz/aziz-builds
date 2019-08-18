@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
+    title: `aziz builds`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@gatsbyjs`,
   },
@@ -9,12 +9,37 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        name: `pages`,
+        path: `${__dirname}/src/pages`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         name: `images`,
         path: `${__dirname}/src/images`,
       },
     },
     `gatsby-transformer-sharp`,
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          `gatsby-remark-copy-linked-files`,
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 1200,
+              linkImagesToOriginal: true,
+              sizeByPixelDensity: true,
+              showCaptions: true,
+            },
+          },
+        ],
+      },
+    },
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-styled-components`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
