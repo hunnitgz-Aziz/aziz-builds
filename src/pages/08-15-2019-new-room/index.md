@@ -44,21 +44,21 @@ Where the bed is placed dictates how my room is being utilized.
 
 #### Pegboard Wall
 
-<img style="max-width: 560px; margin: 0 auto 1.2rem; display: block;" src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/room-renovation/peggy-wall-final.jpg" />
+<img style="max-width: 560px; margin: 0 auto 1.2rem; display: block; width: 100%;" src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/room-renovation/peggy-wall-final.jpg" />
 
 ![Clamped Boards](https://not-ansari.s3.us-east-2.amazonaws.com/builds/room-renovation/clamped-boards.jpg)
 
-<img style="max-width: 560px; margin: 0 auto 1.2rem; display: block;" src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/room-renovation/drilled-board.jpg" />
+<img style="max-width: 560px; margin: 0 auto 1.2rem; display: block; width: 100%;" src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/room-renovation/drilled-board.jpg" />
 
 I love this piece because it allows me to be flexible on what I can place on the board. It grows with my interests over time.
 
 #### Magazine X-Rack
 
-<img style="max-width: 560px; margin: 0 auto 1.2rem; display: block;" src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/room-renovation/maggy-rack.jpg"/>
+<img style="max-width: 560px; margin: 0 auto 1.2rem; display: block; width: 100%;" src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/room-renovation/maggy-rack.jpg"/>
 
 ![Open Rack](https://not-ansari.s3.us-east-2.amazonaws.com/builds/room-renovation/open-rack.jpg)
 
-<img style="max-width: 560px; margin: 0 auto 1.2rem; display: block;" src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/room-renovation/full-maggy-rack.jpg"/>
+<img style="max-width: 560px; margin: 0 auto 1.2rem; display: block; width: 100%;" src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/room-renovation/full-maggy-rack.jpg"/>
 
 I just can't get rid of the art books I've gotten over the years. This piece holds the right amount of items that the collection should tell you who I am without physically being there.
 
