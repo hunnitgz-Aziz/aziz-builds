@@ -32,8 +32,8 @@ const About = () => (
       <TextContainer>
         <p>You've arrived at Aziz's builds. </p>
         <p>
-          Aziz Ramos is an artist and designer that enjoys making random
-          sculptures with wood, cement, etc.
+          Aziz Ramos is an artist and designer that enjoys making sculptures,
+          designs for film sets and solutions for living spaces.
         </p>
         <p>
           He found interest in woodworking by hacking together a dolly track
@@ -41,7 +41,7 @@ const About = () => (
           for{" "}
           <a target="_blank" href="https://www.youtube.com/watch?v=Sc-9sU22-1E">
             a music video.
-          </a>
+          </a>{" "}
           He then proceeded to attend a 5 week workshop at{" "}
           <a target="_blank" href="https://www.thediyjoint.com/">
             thediyjoint.

@@ -19,3 +19,7 @@ Kayleigh, a friend of mine was doing some living room renovations and needed to 
 <img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/wall-art/Frame3.jpg"/>
 
 <img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/wall-art/room-shot.jpg"/>
+
+<img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/wall-art/wall-kayleigh.jpg"/>
+
+Thanks Kayleigh for this amazing challenge :]

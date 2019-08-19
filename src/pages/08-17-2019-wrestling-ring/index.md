@@ -1,21 +1,11 @@
 ---
 path: "/wrestling-ring"
 title: "Wrestling Ring"
-image: "./wall-art.jpg"
+image: "./ring-headline-v2.jpg"
 ---
 
-Kayleigh, a friend of mine was doing some living room renovations and needed to fill the blank wall above her main couch. I was pretty stoked when she asked me to do it because I really wanted to use my new Microgrip table saw jig. Following the request, I spent the next 3 weeks digging for some cool looking scrap wood.
+My friends and I have been recording a series of live music performances in our basement. This featured piece is for 89 the Brainchild and Kohai, two of New Jersey's craziest rappers in the scene.
 
-<img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/wall-art/scraps.JPG"/>
-
-<img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/wall-art/ideation.JPG"/>
-
-<img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/wall-art/formation.JPG"/>
-
-<img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/wall-art/Frame2.jpg"/>
-
-<img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/wall-art/Frame1.jpg"/>
-
-<img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/wall-art/Frame3.jpg"/>
-
-<img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/wall-art/room-shot.jpg"/>
+<div style="position: relative; overflow: hidden; padding-bottom: 56.25%;">
+  <iframe style="position: absolute; top: 0; left: 0; height: 100%; width: 100%;" width="100%" height="100%" src="https://www.youtube.com/embed/uR5bNRuSxf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

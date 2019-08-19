@@ -19,6 +19,22 @@ const PostContainer = styled.div`
   margin: 0 auto;
 `
 
+const Button = styled(props => <Link {...props} />)`
+  box-shadow: none;
+  width: 100%;
+  display: block;
+  text-align: center;
+  border: 3px solid #fff;
+  margin: 2rem auto;
+  padding: 1rem;
+
+  &:hover {
+    box-shadow: none;
+    background: #fff;
+    color: #008080;
+  }
+`
+
 export default function Template({ data }) {
   const { markdownRemark: post } = data
   return (
@@ -32,6 +48,7 @@ export default function Template({ data }) {
         <PostTitle>{post.frontmatter.title}</PostTitle>
         <PostContainer dangerouslySetInnerHTML={{ __html: post.html }} />
       </Post>
+      <Button to="/">See All Projects</Button>
     </Layout>
   )
 }

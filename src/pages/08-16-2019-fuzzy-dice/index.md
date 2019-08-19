@@ -1,21 +1,29 @@
 ---
 path: "/fuzzy-dice"
 title: "Giant Fuzzy Dice"
-image: "./wall-art.jpg"
+image: "./fuzzy-dice-headline.jpg"
 ---
 
-Kayleigh, a friend of mine was doing some living room renovations and needed to fill the blank wall above her main couch. I was pretty stoked when she asked me to do it because I really wanted to use my new Microgrip table saw jig. Following the request, I spent the next 3 weeks digging for some cool looking scrap wood.
+I really have an interest in making pet furniture. Having a cat I get to analyze what he likes to lay in, play with or scratch. My hypothesis: a giant fuzzy dice. Kamaal can spend his time in here and have a spot in the house. Unfortunately my hypothesis was incorrect. He did not like it one bit!
 
-<img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/wall-art/scraps.JPG"/>
+This was a fun project to go through either way. The process always beats the outcome.
 
-<img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/wall-art/ideation.JPG"/>
+<img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/fuzzy-dice/dice-stage-two.jpg"/>
 
-<img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/wall-art/formation.JPG"/>
+<img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/fuzzy-dice/dice-stage-three.jpg"/>
 
-<img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/wall-art/Frame2.jpg"/>
+<img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/fuzzy-dice/dice-final-stage.jpg"/>
 
-<img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/wall-art/Frame1.jpg"/>
+<img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/fuzzy-dice/sewing-stage.jpg"/>
 
-<img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/wall-art/Frame3.jpg"/>
+Special shoutout to my friend Jackie for sewing the seams for me. That kind of detailing made a huge difference to the overall finish.
 
-<img src="https://not-ansari.s3.us-east-2.amazonaws.com/builds/wall-art/room-shot.jpg"/>
+<div style="position: relative; overflow: hidden; padding-bottom: 56.25%; margin-bottom: 2rem;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://player.vimeo.com/video/354579275" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+<div style="position: relative; overflow: hidden; padding-bottom: 56.25%;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://player.vimeo.com/video/354579750" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+The structure has been donated to Fuzzy Friends, a pet store in Jersey City.
